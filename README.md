@@ -1,2 +1,2 @@
-# techbytom.github.io
+# blog.techbytom.com
 My Blog
